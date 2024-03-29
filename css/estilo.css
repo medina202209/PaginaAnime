@@ -1,0 +1,204 @@
+body {
+  background-color: #fefefe;
+  color: #090c0b;
+  font-family: Arial;
+  font-size: 16px;
+  margin-top: 0%;
+}
+
+#imagen_izquierda > #imagendragon {
+  margin-left: 0%;
+  margin-top: 1%;
+  width: 225px;
+  height: 800px;
+  float: left;
+}
+
+#imagen_derecha > #imagenmiedo {
+  margin-right: 0%;
+  margin-top: 1%;
+  width: 225px;
+  height: 800px;
+  float: right;
+}
+
+#contenedor {
+  width: 70%;
+  background-color: #fefefe;
+  margin: 0 auto;
+}
+
+#logo {
+  background-color: #fefefe;
+}
+
+#logo > #imglogo {
+  margin-top: 1%;
+}
+
+#logo > h5 {
+  font-family: "Lucida Sans Regular";
+  color: #ffd69c;
+  margin-top: -0.5%;
+  margin-left: 3%;
+  font-size: 60%;
+}
+
+#menu {
+  background-color: #fe8802;
+  width: 100%;
+  margin-top: -1.5%;
+}
+
+#menu > h2 {
+  color: #fff2fd;
+  margin-left: 5%;
+  margin-top: 0%;
+  padding: 5px;
+}
+
+#contenedor2 {
+  display: flex;
+}
+
+#contenido1 {
+  background-color: #fefefe;
+  width: 55%;
+  margin: 0%;
+  margin-left: 1%;
+}
+
+#imagen1 {
+  width: 579px;
+  height: 300px;
+}
+
+#emision {
+  background-color: #f6fbf9;
+  text-align: left;
+}
+
+#contenido2 {
+  background-color: #fefefe;
+  margin-left: 5%;
+  display: flex;
+}
+
+#imghongo {
+  width: 400px;
+  height: 200px;
+}
+
+#hongos1 {
+  width: 400px;
+  height: 250px;
+}
+
+#ultimoscapitulos {
+  background-color: #fe8802;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+#ultimoscapitulos > #ultimoscap {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: #fefefe;
+  margin: 2%;
+  text-align: center;
+}
+ul > li::marker {
+  color: #fe8802;
+}
+
+#ultimosanimes {
+  background-color: #fe8802;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+#ultimosanimes > #ultimosanimesagregados {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: #fefefe;
+  margin: 1%;
+  text-align: center;
+}
+
+
+
+#emision1 {
+  background-color: #fefefe;
+  display: flex;
+}
+
+#emision2 {
+  background-color: #fefefe;
+  display: flex;
+}
+
+#desc_emision{
+  display: flex;
+  background-color: #fefefe;
+  width: 50%;
+  
+}
+
+#desc{
+  margin-left: 4%;
+  font-size: 14px;
+}
+
+#desc_emision1{
+  background-color: #a30f0f;
+}
+
+#bleach {
+  height: 100px;
+  width: 150px;
+  margin-top: 3%;
+}
+
+#coming {
+  height: 100px;
+  width: 150px;
+  margin-left: 100%;
+  margin-top: 3%;
+}
+
+#onepiece {
+  height: 100px;
+  width: 150px;
+  margin-top: 10%;
+}
+
+#fairy {
+  height: 100px;
+  width: 150px;
+  margin-left: 25%;
+}
+
+#img{
+  margin-top: 2%;
+}
+
+#img1{
+  width: 150px;
+  height: 300px;
+  margin: 2% ;
+}
+
+#aleatorio{
+  background-color: #fefefe;
+  display: flex;
+  
+}
+
+#descripcion{
+  background-color: #fefefe;
+  margin-left: 4%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+}
